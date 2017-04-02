@@ -1,6 +1,6 @@
 # HomeAutomation
 
-# Url:- https://homecontrol.esy.es
+# Url:- http://homecontrol.esy.es
 
 * This system is based on the Internet of Things (IoT).
 
